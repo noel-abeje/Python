@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noel-abeje
 - 👀 I’m interested in software engineering and web development
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on any open source ventures that I am qualified enough to help with
+- 💞️ I’m looking to contribute to any open source ventures that I am qualified enough to help with
 - 📫 How to reach me: noel.abeje@emu.edu
 
 <!---
